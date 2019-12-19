@@ -1,8 +1,13 @@
 
 ![AWS re:Invent 2019 Logo](https://github.com/valdecircarvalho/aws-reinvent2019/blob/master/AWS-re-Invent.png)
 
-# AWS re:Invent 2019
-AWS re:Invent 2019 – Recap &amp; Link Compilation
+# AWS re:Invent 2019 - Resources Compilation
+
+AWS re:Invent 2019 – Recap &amp; Resources Link Compilation
+
+The idea behind this list was to collect and group information about AWS re:Invent 2019 in a single place for futher reference. 
+
+**Feel free to add more links and informations**. This is a working in progress "project"
 
 
 ## Sessions videos on Youtube
