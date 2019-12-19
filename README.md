@@ -1,4 +1,7 @@
-# aws-reinvent2019
+
+![AWS re:Invent 2019 Logo](https://github.com/valdecircarvalho/aws-reinvent2019/blob/master/AWS-re-Invent.png)
+
+# AWS re:Invent 2019
 AWS re:Invent 2019 – Recap &amp; Link Compilation
 
 
